@@ -1,0 +1,23 @@
+{
+  "name": "JCU-Open-Day-Frontend",
+  "version": "0.0.0",
+  "description": "Frontend for JCU IT Faculty Open Day event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Catari/JCU-Open-Day-Frontend.git"
+  },
+  "author": "Chris Lohmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catari/JCU-Open-Day-Frontend/issues"
+  },
+  "homepage": "https://github.com/Catari/JCU-Open-Day-Frontend",
+  "dependencies": {
+    "bower": "latest",
+    "coffee-script": "latest"
+  }
+}
